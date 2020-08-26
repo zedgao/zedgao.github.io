@@ -28,7 +28,7 @@ twitter_username: zedgao
 github_username:  zedgao
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
