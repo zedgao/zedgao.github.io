@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Zed Gao.
+I'm Zed Gao.
 
 Father of two lovely girls.
 
-living in Beijing.
+living in Beijing, China.
