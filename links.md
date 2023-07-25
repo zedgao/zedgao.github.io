@@ -4,15 +4,21 @@ title: Links
 permalink: /links/
 ---
 
-# Sites
+## Sites
 * [书格](https://www.shuge.org/, "书格致力于开放式分享、介绍公共版权领域的古籍善本数字资源") 每个人都能自由地看到我们的文明
 * [观沧海](https://www.ageeye.cn/, "致力于提供和推荐最优质的知识地图，并提供相应的地图制作和分享工具供用户分享他们的创意、知识和生活。") 发现中国
 
-# Forums
+## Forums
 * [V2EX](https://www.v2ex.com/)
 * [XITEK](https://forum.xitek.com/)
 
-# Tools
+## People
 
-# People
-
+## Referral links
+* [Notion](https://www.notion.so/)
+* [WorkFlowy](https://workflowy.com/invite/7beee17b.twx) Workflowy is a better way to think. Check it out & get free space here: [https://workflowy.com/invite/7beee17b.twx]
+* [Standard Notes](https://standardnotes.org/?s=c23il4he) Extended subscription [https://standardnotes.org/?s=c23il4he]
+* [Dropbox](https://www.dropbox.com/referrals/AACYxZfP-olJ-XnKQDLCrk19afg6OLEu17o?src=global9) [https://www.dropbox.com/referrals/AACYxZfP-olJ-XnKQDLCrk19afg6OLEu17o?src=global9]
+* [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSLFKC4S2IOEQ2Q) [https://invite.duolingo.com/BDHTZTB5CWWKSLFKC4S2IOEQ2Q]
+* [flomo](https://flomoapp.com/register2/?MzU2MQ) A simple note tool. [https://flomoapp.com/register2/?MzU2MQ]
+* [ProcessOn](https://www.processon.com/i/5a371a1fe4b09415c8ad43a8) [https://www.processon.com/i/5a371a1fe4b09415c8ad43a8]
