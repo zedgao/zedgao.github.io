@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 I'm Zed Gao.
-
 Father of two lovely girls.
-
-living in Beijing, China.
+Reader, Walker, GRapher...
+Living in Beijing, China.
