@@ -21,3 +21,4 @@ permalink: /links/
 * [ProcessOn](https://www.processon.com/i/5a371a1fe4b09415c8ad43a8)
 
 ## People
+* [Livid](https://olivida.eth.limo/) and his [GameDB](https://gamedb.eth.limo/) [中文版](https://zh.gamedb.eth.limo/)
