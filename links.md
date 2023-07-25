@@ -15,10 +15,9 @@ permalink: /links/
 ## People
 
 ## Referral links
-* [Notion](https://www.notion.so/)
-* [WorkFlowy](https://workflowy.com/invite/7beee17b.twx) Workflowy is a better way to think. Check it out & get free space here: [https://workflowy.com/invite/7beee17b.twx]
-* [Standard Notes](https://standardnotes.org/?s=c23il4he) Extended subscription [https://standardnotes.org/?s=c23il4he]
-* [Dropbox](https://www.dropbox.com/referrals/AACYxZfP-olJ-XnKQDLCrk19afg6OLEu17o?src=global9) [https://www.dropbox.com/referrals/AACYxZfP-olJ-XnKQDLCrk19afg6OLEu17o?src=global9]
-* [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSLFKC4S2IOEQ2Q) [https://invite.duolingo.com/BDHTZTB5CWWKSLFKC4S2IOEQ2Q]
-* [flomo](https://flomoapp.com/register2/?MzU2MQ) A simple note tool. [https://flomoapp.com/register2/?MzU2MQ]
-* [ProcessOn](https://www.processon.com/i/5a371a1fe4b09415c8ad43a8) [https://www.processon.com/i/5a371a1fe4b09415c8ad43a8]
+* [WorkFlowy](https://workflowy.com/invite/7beee17b.twx) Workflowy is a better way to think. Check it out & get free space here: https://workflowy.com/invite/7beee17b.twx
+* [Standard Notes](https://standardnotes.org/?s=c23il4he) Extended subscription https://standardnotes.org/?s=c23il4he
+* [Dropbox](https://www.dropbox.com/referrals/AACYxZfP-olJ-XnKQDLCrk19afg6OLEu17o?src=global9) Your cloud storage. https://www.dropbox.com/referrals/AACYxZfP-olJ-XnKQDLCrk19afg6OLEu17o?src=global9
+* [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSLFKC4S2IOEQ2Q) Learn another language. https://invite.duolingo.com/BDHTZTB5CWWKSLFKC4S2IOEQ2Q
+* [flomo](https://flomoapp.com/register2/?MzU2MQ) A simple note tool. https://flomoapp.com/register2/?MzU2MQ
+* [ProcessOn](https://www.processon.com/i/5a371a1fe4b09415c8ad43a8) https://www.processon.com/i/5a371a1fe4b09415c8ad43a8
