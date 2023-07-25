@@ -6,8 +6,6 @@ permalink: /about/
 
 Zed Gao.
 
-Father of a lovely girl.
-
-IT Engineer.
+Father of two lovely girls.
 
 living in Beijing.
