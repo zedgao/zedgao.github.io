@@ -21,7 +21,7 @@
 title: Z.TD
 email: zedgao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Read, Think, Write.
+  Zed To Do.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://z.td" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zedgao
