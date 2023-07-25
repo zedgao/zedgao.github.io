@@ -10,7 +10,7 @@ I bought a brand new domain today.
 
 `z.td`
 
-I think it's awosome.
+I think it's awesome.
 
 There are so many things to do.
 
