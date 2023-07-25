@@ -17,7 +17,7 @@ permalink: /links/
 * [Standard Notes](https://standardnotes.org/?s=c23il4he) Extended subscription.
 * [Dropbox](https://www.dropbox.com/referrals/AACYxZfP-olJ-XnKQDLCrk19afg6OLEu17o?src=global9) Your cloud storage.
 * [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSLFKC4S2IOEQ2Q) Learn another language.
-* [flomo](https://flomoapp.com/register2/?MzU2MQ) A simple note tool.
+* [flomo](https://flomoapp.com/register2/?MzU2MQ) 浮墨，记录你的想法川流
 * [ProcessOn](https://www.processon.com/i/5a371a1fe4b09415c8ad43a8)
 
 ## People
