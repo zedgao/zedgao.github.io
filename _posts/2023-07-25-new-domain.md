@@ -8,9 +8,7 @@ Three more years passed.
 
 I bought a brand new domain today.
 
-```
-z.td
-```
+`z.td`
 
 I think it's awosome.
 
