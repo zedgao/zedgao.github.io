@@ -23,7 +23,7 @@ email: zedgao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Zed Gao's Weblog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://z.td" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://zedgao.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zedgao
 github_username:  zedgao
 
